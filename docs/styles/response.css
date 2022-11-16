@@ -13,5 +13,9 @@
 
     .links button:hover{
         width: 100%;
-    }    
+    }   
+    
+    .links button {
+        width: none;
+    }
 }
