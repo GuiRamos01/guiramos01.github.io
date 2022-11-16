@@ -12,6 +12,10 @@
         justify-content: center;
     }
 
+    .links, .links button {
+        width: 100%;
+    }
+
     .links button:hover{
         width: 100%;
     }   
@@ -22,5 +26,6 @@
     
     .links button {
         margin: 0px !important;
+        margin-bottom: 12px !important;
     }
 }
