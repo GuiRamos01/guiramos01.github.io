@@ -4,10 +4,6 @@
         padding: 14px;
     }
 
-    .links button {
-        width: 100%;
-    }
-
     .ferramentas {
         display: flex;
         width: 342px;
