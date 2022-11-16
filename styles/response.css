@@ -1,0 +1,17 @@
+@media (max-width: 850px) {
+    body {
+        width: 100%;
+        padding: 14px;
+    }
+
+    .links button {
+        width: 100%;
+    }
+
+    .ferramentas {
+        display: flex;
+        width: 342px;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+}
