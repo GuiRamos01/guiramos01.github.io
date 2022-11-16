@@ -16,6 +16,6 @@
     }   
     
     .links button {
-        width: none;
+        width: 0;
     }
 }
