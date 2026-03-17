@@ -47,20 +47,23 @@ const App = () => {
 
             <div className="Section2">
                 <div className="Itens">
-                    <h2>Design</h2>
-                    <p>+ Photoshop</p>
+                    <h2>Design & Branding</h2>
+                    <p>+ Identidade Visual</p>
                     <p>+ Figma</p>
+                    <p>+ Photoshop</p>
+                    <p>+ Social Media & Ads</p>
+                    <p>+ Materiais Institucionais</p>
                 </div>
-
+            
                 <div className="Itens">
-                    <h2>Developer</h2>
-                    <p>+ CSS & Sass</p>
-                    <p>+ Javascript</p>
-                    <p>+ React JS</p>
-                    <p>+ Vite</p>
-                    <p>+ API Experience</p>
+                    <h2>Full Stack Developer</h2>
+                    <p>+ React (Vite, Javascript ES6+)</p>
+                    <p>+ Node.js & Express</p>
                     <p>+ MongoDB</p>
-                    <p>+ Wordpress</p>
+                    <p>+ Tailwind CSS & Shadcn/UI</p>
+                    <p>+ API REST (Axios, JWT & RBAC)</p>
+                    <p>+ Docker & Linux Server</p>
+                    <p>+ WordPress</p>
                 </div>
             </div>
 
