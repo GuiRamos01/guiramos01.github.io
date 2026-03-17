@@ -14,7 +14,7 @@ const App = () => {
             <div className="Section">
                 <div className="header">
                     <h1 className="weight-400">Hi, I'm <b>Guilherme Ramos</b></h1>
-                    <p>Front-end Developer & Graphic Designer</p>
+                    <p>Fullstack Developer & Graphic Designer</p>
                 </div>
 
                 <div className="buttons">
