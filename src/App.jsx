@@ -110,6 +110,7 @@ const App = () => {
                           <h3>SEE MORE</h3>
                         </Link>
                     </div>
+                </div>
 
                 <div className="Project">
                     <img src={Timeline} alt="" />
